@@ -2,8 +2,12 @@
 {
     public class Category : BaseEntity<int>
     {
-        public Category()
+        public Category()   
         {
+              
+
+
+
 
         }
         public string Color { get; set; }
